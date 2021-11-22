@@ -3,8 +3,8 @@ Languages:
 - Rust primarily as it's the best
 - Go, Python, JavaScript and Solidity sometimes
 
-Familiar Technologies:
-- gRPC, Prometheus, Grafana, LXC
+Most Used Technologies:
+- gRPC, Proxmox, Prometheus, Grafana, LXC, Gogs, Tiling Window Managers, Emacs
 
 My Projects:
 - Evolutionary Neural Network implementation called [CoSyNE](https://github.com/MathisWellmann/cosyne).
