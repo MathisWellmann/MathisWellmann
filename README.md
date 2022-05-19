@@ -1,10 +1,7 @@
 ### Welcome :wave:
 Languages:
 - Rust primarily as it's the best
-- Go, Python, JavaScript and Solidity sometimes
-
-Most Used Technologies:
-- gRPC, Proxmox, Prometheus, Grafana, LXC, Gogs, Tiling Window Managers, Emacs
+- Go, Python, JavaScript but they are not much fun.
 
 My Projects:
 - Evolutionary Neural Network implementation called [CoSyNE](https://github.com/MathisWellmann/cosyne).
@@ -17,14 +14,12 @@ and [Rust](https://github.com/MathisWellmann/sliding_features-rs).
 - Hydra, my private agent based trading framework for cryptocurrency perpetural future markets, and various other supporting code infrastructure like custom database, compression and exchange wrappers, that will remain private for the time being.
 
 My Interests:
+- Permissionless decentralized blockchain projects
 - Low-latency algorithmic trading of cryptocurrency derivatives
 - Managing and adding to my Homelab (incl. BladeCenter)
-- Workflow optimization using Emacs (Doom-Emacs + Rust LSP)
 - Ricing Void Linux with PenroseWM and nushell
-- And some real-world activites as well, which are irrelevant in this context anyways :laughing:
 
 Contact:
-- SessionID: 0589250abe98638598752ed6c5dbd0ddfe208b7a45085e6e732185c5155e92611e
 - Telegram: https://t.me/MathisWellmann
 - eMail: wellmannmathis@gmail.com
 
