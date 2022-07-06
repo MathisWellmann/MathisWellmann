@@ -19,7 +19,3 @@ My Interests:
 - Managing and adding to my Homelab (incl. BladeCenter)
 - Ricing Void Linux with PenroseWM and nushell
 
-Contact:
-- Telegram: https://t.me/MathisWellmann
-- eMail: wellmannmathis@gmail.com
-
