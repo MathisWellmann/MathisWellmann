@@ -16,6 +16,6 @@ and [Rust](https://github.com/MathisWellmann/sliding_features-rs).
 My Interests:
 - Permissionless decentralized blockchain projects
 - Low-latency algorithmic trading of cryptocurrency derivatives
-- Managing and adding to my Homelab (incl. BladeCenter)
-- Ricing Void Linux with PenroseWM and nushell
+- Managing and adding to my Homelab
+- Ricing Arch Linux with PenroseWM and nushell
 
