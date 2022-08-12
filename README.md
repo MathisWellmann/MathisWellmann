@@ -17,5 +17,5 @@ My Interests:
 - Permissionless decentralized blockchain projects
 - Low-latency algorithmic trading of cryptocurrency derivatives
 - Managing and adding to my Homelab
-- Ricing Arch Linux with PenroseWM and nushell
+- Ricing Arch Linux with [my personal config](https://github.com/MathisWellmann/penrose-personal)
 
