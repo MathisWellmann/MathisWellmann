@@ -1,7 +1,5 @@
 ### Welcome :wave:
-Languages:
-- Rust primarily as it's the best
-- Go, Python, JavaScript but they are not much fun.
+I consider myself a Rust maximalist :)
 
 My Projects:
 - Evolutionary Neural Network implementation called [CoSyNE](https://github.com/MathisWellmann/cosyne).
@@ -16,6 +14,5 @@ and [Rust](https://github.com/MathisWellmann/sliding_features-rs).
 My Interests:
 - Permissionless decentralized blockchain projects
 - Low-latency algorithmic trading of cryptocurrency derivatives
-- Managing and adding to my Homelab
 - Ricing Arch Linux with [my personal config](https://github.com/MathisWellmann/penrose-personal)
 
