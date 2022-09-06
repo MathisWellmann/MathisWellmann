@@ -13,6 +13,5 @@ and [Rust](https://github.com/MathisWellmann/sliding_features-rs).
 
 My Interests:
 - Permissionless decentralized blockchain projects
-- Low-latency algorithmic trading of cryptocurrency derivatives
+- Algorithmic trading of cryptocurrencies using machine learnign techniques
 - Ricing Arch Linux with [my personal config](https://github.com/MathisWellmann/penrose-personal)
-
