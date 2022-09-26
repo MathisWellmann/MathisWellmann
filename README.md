@@ -1,5 +1,6 @@
 ### Welcome :wave:
 I consider myself a Rust maximalist :)
+
 Polkadot Blockchain Academy (Cambridge 2022) Graduate (Distinction) 
 
 My Projects:
