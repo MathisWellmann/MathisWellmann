@@ -1,7 +1,7 @@
 ### Welcome :wave:
 I consider myself a Rust maximalist :)
 
-Polkadot Blockchain Academy (Cambridge 2022) Graduate (Distinction) 
+[Polkadot Blockchain Academy](https://polkadot.network/academy/) (Cambridge 2022) Graduate (Distinction)
 
 My Projects:
 - Evolutionary Neural Network implementation called [CoSyNE](https://github.com/MathisWellmann/cosyne).
