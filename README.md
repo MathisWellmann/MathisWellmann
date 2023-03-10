@@ -5,7 +5,7 @@ I consider myself a Rust maximalist :)
 
 My Projects:
 - [TradeAggregation](https://github.com/MathisWellmann/trade_aggregation-rs) for creating candles from tick data.
-- [LFEST](https://github.com/MathisWellmann/lfest-rs) An embedded leveraged futures exchange for simulated trading, supporting external market data as well as market and limit orders with proper margining. With support for linear and inverse futures pnl calculation.
+- [LFEST](https://github.com/MathisWellmann/lfest-rs) Leveraged futures exchange for simulated trading
 - Various technical trading indicators and signal processing functions  in [Go](https://github.com/MathisWellmann/go_ehlers_indicators)
 and [Rust](https://github.com/MathisWellmann/sliding_features-rs).
 - Evolutionary Neural Network implementation called [CoSyNE](https://github.com/MathisWellmann/cosyne).
