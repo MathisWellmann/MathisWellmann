@@ -1,5 +1,5 @@
 ### Welcome :wave:
-I consider myself a Rust maximalist :)
+I consider myself a Rust maximalist and HPC enjoyer (CUDA);
 
 [Polkadot Blockchain Academy](https://polkadot.network/academy/) (Cambridge 2022) Graduate (Distinction)
 
