@@ -18,4 +18,5 @@ I consider myself a Rust maximalist and HPC enjoyer (CUDA);
 ### My Interests:
 - Permissionless decentralized blockchain projects
 - Algorithmic trading of cryptocurrencies using machine learning techniques
+- Low latency and massively parallel computations
 - Ricing Arch Linux with [my personal config](https://github.com/MathisWellmann/penrose-personal)
