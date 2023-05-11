@@ -5,7 +5,7 @@ I consider myself a Rust maximalist and HPC enjoyer (CUDA);
 
 ### My Current Projects:
 - :moneybag: [TradeAggregation](https://github.com/MathisWellmann/trade_aggregation-rs) for creating candles from tick data.
-- :currency_exchange: [LFEST](https://github.com/MathisWellmann/lfest-rs) Leveraged futures exchange for simulated trading
+- :currency_exchange: [LFEST](https://github.com/MathisWellmann/lfest-rs) Perpetual futures exchange for simulated trading
 - :chains: Chainable Tree-like [Sliding Features](https://github.com/MathisWellmann/sliding_features-rs).
 - :flying_saucer: Trading related secret sauce in private repos.
 
