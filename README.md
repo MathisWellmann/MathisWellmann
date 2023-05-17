@@ -4,7 +4,7 @@ I consider myself a Rust maximalist and HPC enjoyer (CUDA);
 [Polkadot Blockchain Academy](https://polkadot.network/academy/) (Cambridge 2022) Graduate (Distinction)
 
 ### My Current Projects:
-- :moneybag: [TradeAggregation](https://github.com/MathisWellmann/trade_aggregation-rs) for creating candles from tick data.
+- :moneybag: [TradeAggregation](https://github.com/MathisWellmann/trade_aggregation-rs): A high performance, modular and flexible trade aggregation crate.
 - :currency_exchange: [LFEST](https://github.com/MathisWellmann/lfest-rs) Perpetual futures exchange for simulated trading
 - :chains: Chainable Tree-like [Sliding Features](https://github.com/MathisWellmann/sliding_features-rs).
 - :flying_saucer: Trading related secret sauce in private repos.
