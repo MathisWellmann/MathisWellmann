@@ -1,5 +1,6 @@
 ### Welcome :wave:
 I consider myself a Rust maximalist and HPC enjoyer (CUDA);
+
 "If you give everybody an edge, then nobody has an edge", the reason why only half of my stuff is public.
 
 [Polkadot Blockchain Academy](https://polkadot.network/academy/) (Cambridge 2022) Graduate (Distinction)
