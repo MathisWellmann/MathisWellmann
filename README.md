@@ -16,6 +16,7 @@ I consider myself a Rust maximalist and HPC enjoyer (CUDA);
 - :frog: Evolutionary Neural Network implementation called [CoSyNE](https://github.com/MathisWellmann/cosyne).
 - :muscle: [gym-rs](https://github.com/MathisWellmann/gym-rs) a pure Rust implementation of OpenAi's Gym environments.
 - :chart_with_upwards_trend: [TimeSeriesGenerator](https://github.com/MathisWellmann/time_series_generator-rs) for synthetic data generation.
+- :potable_water: [reservoir_computer](https://github.com/MathisWellmann/reservoir_computer) Reservoir computers on the CPU
 
 ### My Interests:
 - Permissionless decentralized blockchain projects
