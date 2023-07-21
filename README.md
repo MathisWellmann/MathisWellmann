@@ -19,5 +19,5 @@ I consider myself a Rust maximalist and HPC enjoyer (CUDA);
 - Permissionless decentralized blockchain projects
 - Algorithmic trading of cryptocurrencies using machine learning techniques
 - Cache optimized low latency algorithms
-- Dynamical systems, optimal control
+- Optimal control
 - Ricing Arch Linux with [my personal config](https://github.com/MathisWellmann/penrose-personal)
