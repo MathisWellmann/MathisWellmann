@@ -1,5 +1,5 @@
 ### Welcome :wave:
-I consider myself a Rust maximalist and HPC enjoyer (CUDA);
+I consider myself a Rust maximalist
 
 "Mathematik ist die materialisierung von abstrakten Strukturen des Hyperraums"
 
