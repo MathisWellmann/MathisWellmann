@@ -21,3 +21,4 @@ I consider myself a Rust maximalist
 - Cache optimized low latency algorithms
 - Optimal control
 - Ricing Arch Linux with [my personal config](https://github.com/MathisWellmann/penrose-personal)
+  -> Actually nowadays nixos is the GOAT
