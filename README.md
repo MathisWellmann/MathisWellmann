@@ -14,6 +14,7 @@ I consider myself a Rust maximalist
 - :muscle: [gym-rs](https://github.com/MathisWellmann/gym-rs) a pure Rust implementation of OpenAi's Gym environments.
 - :chart_with_upwards_trend: [TimeSeriesGenerator](https://github.com/MathisWellmann/time_series_generator-rs) for synthetic data generation.
 - :potable_water: [reservoir_computer](https://github.com/MathisWellmann/reservoir_computer) Reservoir computers on the CPU
+- :chart_with_downwards_trend: [whittaker_smoother](https://github.com/MathisWellmann/whittaker_smoother) A perfect smoother
 
 ### My Interests:
 - Permissionless decentralized blockchain projects
