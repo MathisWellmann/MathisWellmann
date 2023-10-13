@@ -1,5 +1,5 @@
 ### Welcome :wave:
-I consider myself a Rust maximalist
+I consider myself a Rust and NixOS maximalist
 
 "Mathematik ist die materialisierung von abstrakten Strukturen des Hyperraums"
 
