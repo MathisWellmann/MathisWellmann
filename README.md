@@ -22,3 +22,5 @@ I consider myself a Rust 🦀 and NixOS maximalist
 - Optimal control, manifold learning, koopman operator theory, takens embedding theory
 - Ricing Arch Linux with [my personal config](https://github.com/MathisWellmann/penrose-personal)
   -> Actually nowadays nixos is the GOAT
+
+[![Gource for selected repos](./gource.webm)]
