@@ -19,7 +19,6 @@ I consider myself a Rust 🦀 and NixOS maximalist
 ### My Interests:
 - Permissionless decentralized blockchain projects
 - Algorithmic trading of cryptocurrencies using machine learning techniques
-- Optimal control, manifold learning, koopman operator theory, takens embedding theory
 - Ricing Arch Linux with [my personal config](https://github.com/MathisWellmann/penrose-personal)
   -> Actually nowadays nixos is the GOAT
 
