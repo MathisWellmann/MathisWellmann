@@ -5,7 +5,7 @@ I consider myself a Rust 🦀 and NixOS maximalist
 
 [Polkadot Blockchain Academy](https://polkadot.network/academy/) (Cambridge 2022) Graduate (Distinction)
 
-### My Open-Source Repositories:
+### My Open-Source Repositories [Crates on lib.rs](https://lib.rs/~MathisWellmann):
 - :moneybag: [TradeAggregation](https://github.com/MathisWellmann/trade_aggregation-rs): A high performance, modular and flexible trade aggregation crate.
 - :currency_exchange: [LFEST](https://github.com/MathisWellmann/lfest-rs) Perpetual futures exchange for simulated trading
 - :chains: Chainable Tree-like [Sliding Features](https://github.com/MathisWellmann/sliding_features-rs).
