@@ -1,9 +1,5 @@
 ### Welcome :wave:
-I consider myself a Rust 🦀 and NixOS maximalist
-
-"Mathematik ist die materialisierung von abstrakten Strukturen des Hyperraums"
-
-[Polkadot Blockchain Academy](https://polkadot.network/academy/) (Cambridge 2022) Graduate (Distinction)
+I enjoy Rust 🦀 and NixOS
 
 ### My Open-Source Repositories [Crates on lib.rs](https://lib.rs/~MathisWellmann):
 - :moneybag: [TradeAggregation](https://github.com/MathisWellmann/trade_aggregation-rs): A high performance, modular and flexible trade aggregation crate.
@@ -15,11 +11,3 @@ I consider myself a Rust 🦀 and NixOS maximalist
 - :chart_with_upwards_trend: [TimeSeriesGenerator](https://github.com/MathisWellmann/time_series_generator-rs) for synthetic data generation.
 - :potable_water: [reservoir_computer](https://github.com/MathisWellmann/reservoir_computer) Reservoir computers on the CPU
 - :chart_with_downwards_trend: [whittaker_smoother](https://github.com/MathisWellmann/whittaker_smoother) A perfect smoother
-
-### My Interests:
-- Permissionless decentralized blockchain projects
-- Algorithmic trading of cryptocurrencies using machine learning techniques
-- Ricing Arch Linux with [my personal config](https://github.com/MathisWellmann/penrose-personal)
-  -> Actually nowadays nixos is the GOAT
-
-[![Gource for selected repos](./gource.webm)](./gource.webm)]
