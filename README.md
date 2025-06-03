@@ -1,5 +1,5 @@
 ### Welcome :wave:
-I enjoy Rust 🦀 and NixOS
+I enjoy writing correct, fast and simple software using Rust 🦀 on NixOS.
 
 ### My Open-Source Repositories [Crates on lib.rs](https://lib.rs/~MathisWellmann):
 - :moneybag: [TradeAggregation](https://github.com/MathisWellmann/trade_aggregation-rs): A high performance, modular and flexible trade aggregation crate.
