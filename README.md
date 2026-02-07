@@ -4,6 +4,7 @@ I enjoy writing correct, fast and simple software using Rust 🦀 on NixOS.
 Interested in predictable low latency trading systems, optimizing for CPU caches, branch predictors and proper atomics synchronization primitives.
 
 [Using NixOS to manage my homelab](https://MathisWellmann/nixos-config) (6 servers, ~400 threads, ~1.7TB RAM) in a declarative and reproducible fashion, running various services, miners and ML-driven tick-by-tick backtests. Gotta pump that load average up. 
+Also more than half of my contributions are directed towards my self-hosted forgejo instance, not showing up on Github.
 
 ### My Open-Source Repositories [Crates on lib.rs](https://lib.rs/~MathisWellmann):
 - :moneybag: [TradeAggregation](https://github.com/MathisWellmann/trade_aggregation-rs): Low-Latency trade aggregation crate for user-defined `Candle`s based on information driven rules.
