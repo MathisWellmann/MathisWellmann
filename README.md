@@ -1,6 +1,8 @@
 ### Welcome :wave:
 I enjoy writing correct, fast and simple software using Rust 🦀 on NixOS.
 
+Currently working on [symbiont](https://MathisWellmann/symbiont) in my free time.
+
 Interested in predictable low latency trading systems, optimizing for CPU caches, branch predictors and proper atomics synchronization primitives.
 
 [Using NixOS to manage my homelab](https://MathisWellmann/nixos-config) (6 servers, ~400 threads, ~1.7TB RAM) in a declarative and reproducible fashion, running various services, miners and ML-driven tick-by-tick backtests. Gotta pump that load average up. 
