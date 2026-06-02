@@ -9,6 +9,7 @@ Interested in predictable low latency trading systems, optimizing for CPU caches
 Also more than half of my contributions are directed towards my self-hosted forgejo instance, not showing up on Github.
 
 ### My Open-Source Repositories [Crates on lib.rs](https://lib.rs/~MathisWellmann):
+- :robot:: [symbiont](https://github.com/MathisWellmann/symbiont): Agent Harness for hot-reloading function evolution in Rust and LLM guided search.
 - :moneybag: [TradeAggregation](https://github.com/MathisWellmann/trade_aggregation-rs): Low-Latency trade aggregation crate for user-defined `Candle`s based on information driven rules.
 - :currency_exchange: [LFEST](https://github.com/MathisWellmann/lfest-rs) High performance perpetual futures exchange for simulated trading
 - :chains: Chainable Tree-like [Sliding Features](https://github.com/MathisWellmann/sliding_features-rs). Basically sequential signal processing including "technical indicators"
